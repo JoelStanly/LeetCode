@@ -46,6 +46,7 @@
 | [0010-regular-expression-matching](https://github.com/JoelStanly/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/JoelStanly/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/JoelStanly/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/JoelStanly/LeetCode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
