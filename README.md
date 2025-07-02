@@ -64,6 +64,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/JoelStanly/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JoelStanly/LeetCode/tree/master/0067-add-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
