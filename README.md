@@ -39,6 +39,7 @@
 | [0067-add-binary](https://github.com/JoelStanly/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JoelStanly/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JoelStanly/LeetCode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/JoelStanly/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@
 | [0058-length-of-last-word](https://github.com/JoelStanly/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JoelStanly/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/JoelStanly/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
