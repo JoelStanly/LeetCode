@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoelStanly/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JoelStanly/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JoelStanly/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/JoelStanly/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JoelStanly/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JoelStanly/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JoelStanly/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JoelStanly/LeetCode/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
