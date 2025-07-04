@@ -97,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/JoelStanly/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/JoelStanly/LeetCode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/JoelStanly/LeetCode/tree/master/0344-reverse-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
@@ -127,6 +128,7 @@
 | [0088-merge-sorted-array](https://github.com/JoelStanly/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/JoelStanly/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/JoelStanly/LeetCode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
