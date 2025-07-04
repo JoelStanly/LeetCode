@@ -98,6 +98,7 @@
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/JoelStanly/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/JoelStanly/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
@@ -129,6 +130,7 @@
 | [0125-valid-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/JoelStanly/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JoelStanly/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
