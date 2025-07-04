@@ -23,6 +23,7 @@
 | [0228-summary-ranges](https://github.com/JoelStanly/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JoelStanly/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/JoelStanly/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/JoelStanly/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Counting
 |  |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/JoelStanly/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
