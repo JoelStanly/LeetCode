@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/JoelStanly/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JoelStanly/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/JoelStanly/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/JoelStanly/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JoelStanly/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JoelStanly/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0070-climbing-stairs](https://github.com/JoelStanly/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/JoelStanly/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JoelStanly/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -66,6 +69,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/JoelStanly/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/JoelStanly/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +135,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/JoelStanly/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/JoelStanly/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -149,6 +154,7 @@
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JoelStanly/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JoelStanly/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
