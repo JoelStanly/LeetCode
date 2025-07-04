@@ -35,6 +35,7 @@
 | [0219-contains-duplicate-ii](https://github.com/JoelStanly/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JoelStanly/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/JoelStanly/LeetCode/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0205-isomorphic-strings](https://github.com/JoelStanly/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JoelStanly/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/JoelStanly/LeetCode/tree/master/0290-word-pattern) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
