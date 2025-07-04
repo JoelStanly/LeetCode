@@ -88,6 +88,7 @@
 | [0171-excel-sheet-column-number](https://github.com/JoelStanly/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/JoelStanly/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JoelStanly/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
@@ -155,12 +156,14 @@
 | [0100-same-tree](https://github.com/JoelStanly/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JoelStanly/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/JoelStanly/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [0100-same-tree](https://github.com/JoelStanly/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JoelStanly/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,4 +189,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
