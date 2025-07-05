@@ -40,6 +40,7 @@
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JoelStanly/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/JoelStanly/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
@@ -104,6 +105,7 @@
 | [0290-word-pattern](https://github.com/JoelStanly/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/JoelStanly/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/JoelStanly/LeetCode/tree/master/0383-ransom-note) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/JoelStanly/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Backtracking
 |  |
