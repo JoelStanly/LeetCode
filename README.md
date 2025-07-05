@@ -44,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/JoelStanly/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/JoelStanly/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
@@ -111,6 +112,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/JoelStanly/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
@@ -159,6 +161,7 @@
 | [0067-add-binary](https://github.com/JoelStanly/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/JoelStanly/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -180,6 +183,7 @@
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JoelStanly/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
