@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/JoelStanly/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/JoelStanly/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JoelStanly/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
