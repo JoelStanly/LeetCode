@@ -46,6 +46,7 @@
 | [0383-ransom-note](https://github.com/JoelStanly/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0409-longest-palindrome) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JoelStanly/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
@@ -116,6 +117,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/JoelStanly/LeetCode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0409-longest-palindrome) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
