@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JoelStanly/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/JoelStanly/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JoelStanly/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/JoelStanly/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JoelStanly/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/JoelStanly/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
