@@ -68,6 +68,7 @@
 | [0168-excel-sheet-column-title](https://github.com/JoelStanly/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JoelStanly/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -118,6 +119,7 @@
 | [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/JoelStanly/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JoelStanly/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JoelStanly/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
