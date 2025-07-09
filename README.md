@@ -144,6 +144,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/JoelStanly/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [0110-balanced-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoelStanly/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -219,6 +221,7 @@
 | [0110-balanced-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoelStanly/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -231,6 +234,7 @@
 | [0110-balanced-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoelStanly/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
