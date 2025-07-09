@@ -204,6 +204,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JoelStanly/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/JoelStanly/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -214,6 +215,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/JoelStanly/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -225,6 +227,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JoelStanly/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/JoelStanly/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/JoelStanly/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -233,6 +236,7 @@
 | [0101-symmetric-tree](https://github.com/JoelStanly/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoelStanly/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/JoelStanly/LeetCode/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
