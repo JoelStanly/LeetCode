@@ -284,4 +284,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0409-longest-palindrome) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/JoelStanly/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
