@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoelStanly/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/JoelStanly/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JoelStanly/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JoelStanly/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/JoelStanly/LeetCode/tree/master/0066-plus-one) |
