@@ -37,6 +37,7 @@
 | [0141-linked-list-cycle](https://github.com/JoelStanly/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JoelStanly/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/JoelStanly/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/JoelStanly/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JoelStanly/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JoelStanly/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JoelStanly/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -72,6 +73,7 @@
 | [0070-climbing-stairs](https://github.com/JoelStanly/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/JoelStanly/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JoelStanly/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/JoelStanly/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -166,6 +168,7 @@
 | [0125-valid-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JoelStanly/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JoelStanly/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/JoelStanly/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/JoelStanly/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JoelStanly/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
