@@ -104,6 +104,7 @@
 | [0069-sqrtx](https://github.com/JoelStanly/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/JoelStanly/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/JoelStanly/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JoelStanly/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -336,4 +337,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/JoelStanly/LeetCode/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/JoelStanly/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
