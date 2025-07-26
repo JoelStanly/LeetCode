@@ -165,6 +165,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JoelStanly/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/JoelStanly/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/JoelStanly/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -304,12 +305,14 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JoelStanly/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/JoelStanly/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/JoelStanly/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JoelStanly/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JoelStanly/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/JoelStanly/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
