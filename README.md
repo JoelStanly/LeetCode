@@ -76,6 +76,7 @@
 | [0168-excel-sheet-column-title](https://github.com/JoelStanly/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JoelStanly/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/JoelStanly/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/JoelStanly/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -88,6 +89,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/JoelStanly/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/JoelStanly/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/JoelStanly/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/JoelStanly/LeetCode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
@@ -197,6 +199,7 @@
 | [0190-reverse-bits](https://github.com/JoelStanly/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JoelStanly/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/JoelStanly/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/JoelStanly/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
