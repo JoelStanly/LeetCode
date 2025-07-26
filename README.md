@@ -79,6 +79,7 @@
 | [0202-happy-number](https://github.com/JoelStanly/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/JoelStanly/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JoelStanly/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/JoelStanly/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
