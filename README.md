@@ -78,6 +78,7 @@
 | [0171-excel-sheet-column-number](https://github.com/JoelStanly/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/JoelStanly/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/JoelStanly/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/JoelStanly/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JoelStanly/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/JoelStanly/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -329,4 +331,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/JoelStanly/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/JoelStanly/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/JoelStanly/LeetCode/tree/master/0183-customers-who-never-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/JoelStanly/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
