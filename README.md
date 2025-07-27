@@ -84,6 +84,7 @@
 | [0292-nim-game](https://github.com/JoelStanly/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/JoelStanly/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JoelStanly/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/JoelStanly/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -112,6 +113,7 @@
 | [0278-first-bad-version](https://github.com/JoelStanly/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/JoelStanly/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JoelStanly/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/JoelStanly/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
