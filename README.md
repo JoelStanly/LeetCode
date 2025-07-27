@@ -82,6 +82,7 @@
 | [0263-ugly-number](https://github.com/JoelStanly/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/JoelStanly/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/JoelStanly/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -95,6 +96,7 @@
 | [0206-reverse-linked-list](https://github.com/JoelStanly/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JoelStanly/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JoelStanly/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/JoelStanly/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
