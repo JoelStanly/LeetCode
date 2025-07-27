@@ -85,6 +85,7 @@
 | [0326-power-of-three](https://github.com/JoelStanly/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JoelStanly/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/JoelStanly/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/JoelStanly/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -150,6 +151,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/JoelStanly/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/JoelStanly/LeetCode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/JoelStanly/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/JoelStanly/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3617-find-the-original-typed-string-i](https://github.com/JoelStanly/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -221,6 +223,7 @@
 | [0338-counting-bits](https://github.com/JoelStanly/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JoelStanly/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JoelStanly/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/JoelStanly/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
