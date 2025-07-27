@@ -81,6 +81,7 @@
 | [0258-add-digits](https://github.com/JoelStanly/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/JoelStanly/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JoelStanly/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/JoelStanly/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/JoelStanly/LeetCode/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JoelStanly/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/JoelStanly/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -341,4 +342,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/JoelStanly/LeetCode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/JoelStanly/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/JoelStanly/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
